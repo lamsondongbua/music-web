@@ -40,38 +40,38 @@ const app = {
         {
             name: 'Như một người dưng',
             singer:  'Yang Remix',
-            path: '../music/như-một-người-dưng.mp3',
-            image: '../imge/như một người dưng.jpg'
+            path: '../music/nhu_mot_nguoi_dung.mp3',
+            image: '../imge/nhu_mot_nguoi_dung.jpg'
         },
         {
             name: 'Để anh lương thiện',
             singer:  '???',
-            path: '../music/anh-thôi-lương-thiện.mp3',
-            image: '../imge/anh thôi lương thiện.jpg'
+            path: '../music/anh_thoi_luong_thien.mp3',
+            image: '../imge/anh_thoi_luong_thien.jpg'
         },
         {
             name: 'Đông miên 2023',
             singer:  'Lưu Triệu Vũ',
-            path: '../music/đông-miên-2023.mp3',
-            image: '../imge/đông miên 2023.jpg'
+            path: '../music/dong_mien_2023.mp3',
+            image: '../imge/dong_mien_2023.jpg'
         },
         {
             name: 'Chầm chậm',
             singer:  'Tiểu Lạc Ca',
-            path: '../music/chầm-chậm.mp3',
-            image: '../imge/chầm chậm.jpg'
+            path: '../music/cham_cham.mp3',
+            image: '../imge/cham_cham.jpg'
         },
         {
             name: 'Tháp rơi tự do',
             singer:  'LB Lợi Bỉ',
-            path: '../music/tháp-rơi-tự-do.mp3',
-            image: '../imge/tháp rơi tự do.jpg'
+            path: '../music/thap_roi_tu_do.mp3',
+            image: '../imge/thap_roi_tu_do.jpg'
         },
         {
             name: 'Nếu tình yêu đã lãng quên',
             singer:  'Uông Tô Lang - Thiện Y Thuần',
-            path: '../music/nếu-tình-yêu-đã-lãng-quên_1.mp3',
-            image: '../imge/nếu tình yêu đã lãng quên.jpg'
+            path: '../music/neu_tinh_yeu_da_lang_quen1.mp3',
+            image: '../imge/neu_tinh_yeu_da_lang_quen1.jpg'
         }
     ],
     setConfig: function(key,value){
