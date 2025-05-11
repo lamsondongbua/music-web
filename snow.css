@@ -1,0 +1,18 @@
+.snow-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh; /* Chiếm toàn bộ màn hình */
+    pointer-events: none; /* Không ảnh hưởng đến thao tác người dùng */
+    z-index: 9999; /* Đảm bảo tuyết luôn trên cùng */
+}
+
+.snowflake {
+    position: absolute;
+    top: -10px;
+    background-color: white; /* Màu tuyết */
+    border-radius: 50%;
+    pointer-events: none;
+    opacity: 0.8;
+}
